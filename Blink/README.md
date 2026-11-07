@@ -1,4 +1,4 @@
-# 💡 ESP32 LED Blinking Project
+# 🔖 ESP32 LED Blinking Project
 
 ## 📌 Overview
 
